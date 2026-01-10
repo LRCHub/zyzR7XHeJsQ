@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "あのね",
+  "base_artist": "ナナツカゼ",
+  "createdAt": "2026-01-10T02:21:41.177448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あのね。 - loved ones ver. - TVアニメ「くまクマ熊ベアー」エンディングテーマ",
+      "artist": "ユナ (CV: 河瀬茉希) feat. フィナ (CV: 和氣あず未)",
+      "has_synced": true,
+      "path": "select/01_あのね。_-_loved_ones_ver._-_TVアニメ「くまクマ熊ベアー」エンディングテーマ_ユナ_(CV__河瀬茉希)_feat._フィナ_(CV__和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あのね。 - loved ones ver. - TVアニメ「くまクマ熊ベアー」エンディングテーマ",
+      "artist": "ユナ (CV: 河瀬茉希)/フィナ (CV: 和氣あず未)",
+      "has_synced": true,
+      "path": "select/02_あのね。_-_loved_ones_ver._-_TVアニメ「くまクマ熊ベアー」エンディングテーマ_ユナ_(CV__河瀬茉希)_フィナ_(CV__和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あのね、聞いてほしいことがあるんだ",
+      "artist": "木下ひなた(CV 田村奈央)",
+      "has_synced": false,
+      "path": "select/03_あのね、聞いてほしいことがあるんだ_木下ひなた(CV_田村奈央).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あのね - Anone",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/04_あのね_-_Anone_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あのね",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/05_あのね_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あのね。",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/06_あのね。_あれくん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あのね。",
+      "artist": "あれくん, 『ユイカ』",
+      "has_synced": false,
+      "path": "select/07_あのね。_あれくん,_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あのね Love me Do",
+      "artist": "田村ゆかり",
+      "has_synced": false,
+      "path": "select/08_あのね_Love_me_Do_田村ゆかり.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あのね、闻いてほしいことがあるんだ",
+      "artist": "木下ひなた(CV.田村奈央)",
+      "has_synced": false,
+      "path": "select/09_あのね、闻いてほしいことがあるんだ_木下ひなた(CV.田村奈央).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あのね。 - Anone",
+      "artist": "Yuika & Alekun",
+      "has_synced": true,
+      "path": "select/10_あのね。_-_Anone_Yuika_&_Alekun.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あのね。 - Anone",
+      "artist": "Arekun",
+      "has_synced": true,
+      "path": "select/11_あのね。_-_Anone_Arekun.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あのね。 - Anone",
+      "artist": "Arekun & Yuika",
+      "has_synced": true,
+      "path": "select/12_あのね。_-_Anone_Arekun_&_Yuika.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あのね。 - Anone",
+      "artist": "Yuika & Arekun",
+      "has_synced": true,
+      "path": "select/13_あのね。_-_Anone_Yuika_&_Arekun.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "あのね、キミだけに (TV version)",
+      "artist": "A応P",
+      "has_synced": false,
+      "path": "select/14_あのね、キミだけに_(TV_version)_A応P.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "あのね Love me Do",
+      "artist": "Yukari Tamura",
+      "has_synced": false,
+      "path": "select/15_あのね_Love_me_Do_Yukari_Tamura.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "あのね、",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/16_あのね、_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "あのね",
+      "artist": "moreru",
+      "has_synced": false,
+      "path": "select/17_あのね_moreru.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あのね",
+      "artist": "ナナツカゼ",
+      "has_synced": false,
+      "path": "select/pl_01_あのね_ナナツカゼ.txt"
+    }
+  ]
+}
